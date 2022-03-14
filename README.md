@@ -3,11 +3,11 @@ This is a calendar made with React with the component "react-datepicker"
 
 ## In order to run the repository:
 
-### git clone https://github.com/MaidedPonce/simulation-bc-filters.git
+#### git clone https://github.com/EdwinSanFI/calendar-react-c9.git
 
-### npm install
+#### npm install
 
-### npm start
+#### npm start
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
