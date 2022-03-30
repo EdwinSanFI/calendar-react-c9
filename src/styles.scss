@@ -11,6 +11,11 @@
 
 }
 
+.react-datepicker__day--keyboard-selected {
+    background-color: #468DAD !important;
+    // color: black !important;
+}
+
 //Posicion de las flechas
 .react-datepicker__navigation {
     &--previous {
@@ -104,6 +109,5 @@
     padding: 10px 10px;
 }
 #root {
-    background-color: #b4d6e7;
     text-align: center !important;
 }
